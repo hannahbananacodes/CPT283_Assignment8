@@ -1,0 +1,22 @@
+/* CPT 283 Program 8 - style.css
+# Created by Hannah Holmes
+# This stylesheet formats the table for the climate data
+# Created 01 Oct 2023 */
+
+table, td, tr {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    background-color: lightblue;
+}
+
+td, tr {
+    padding: 10px;
+}
+
+.city {
+    width: 100px;
+}
+
+.colname {
+    width: 70px;
+}
